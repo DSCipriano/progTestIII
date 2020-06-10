@@ -1,4 +1,5 @@
 ﻿#include "hora_do_sistema.h"
+#include <stdio.h>
 #include <time.h>
 int main(){
 	time_t datah;
